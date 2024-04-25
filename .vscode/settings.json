@@ -40,5 +40,6 @@
         }
       }
     ]
-  }
+  },
+  "cmake.options.statusBarVisibility": "visible"
 }
