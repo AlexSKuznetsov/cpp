@@ -10,7 +10,8 @@
     "twxs.cmake",
     "ms-vscode.cmake-tools",
     "davidschuldenfrei.gtest-adapter",
-    "ms-vscode.makefile-tools"
+    "ms-vscode.makefile-tools",
+    "matepek.vscode-catch2-test-adapter"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []

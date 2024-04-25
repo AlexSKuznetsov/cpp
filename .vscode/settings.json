@@ -41,5 +41,7 @@
       }
     ]
   },
-  "cmake.options.statusBarVisibility": "visible"
+  "cmake.options.statusBarVisibility": "visible",
+  "gtest-adapter.debugConfig": ["(lldb) Launch"],
+  "gtest-adapter.supportLocation": false
 }
